@@ -14,7 +14,7 @@ public class App
 	private static Scanner scanner = new Scanner(System.in);
 	static String[] end = {"Tie", "User lose", "User win"};
 	/**
-	 * Este metode empezara a jugar piedra, papel o tijeras.
+	 * Este metodo empezara a jugar piedra, papel o tijeras.
 	 * @param args
 	 */
     public static void main( String[] args )
